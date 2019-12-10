@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ACM SIGGRAPH 2016 Talks*"
-tags: ["cyber- physical construction", "human robot collaboration", "industry 4.0", "robotic fabrication"]
+tags: []
 url_pdf: "http://doi.acm.org/10.1145/2897839.2927404"
 doi: "10.1145/2897839.2927404"
 ---
